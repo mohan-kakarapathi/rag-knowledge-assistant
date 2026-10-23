@@ -1,0 +1,61 @@
+# Employee Handbook
+
+## 1. Annual Leave
+
+Employees receive 20 days of annual leave per calendar year. Annual leave should be requested through the company's leave management system at least 5 working days in advance. Leave approval depends on project requirements and manager approval. Unused annual leave can be carried forward up to a maximum of 5 days into the next calendar year.
+
+## 2. Remote Work
+
+Employees can work remotely up to 2 days per week. Employees must coordinate their remote working schedule with their manager and team. Employees working remotely must be available during core working hours and attend scheduled meetings. Some roles may require employees to work from the office more frequently.
+
+## 3. Sick Leave
+
+Employees receive 10 days of sick leave per year. Employees should inform their manager as soon as possible when they are unable to work due to illness. For an absence lasting more than 3 consecutive working days, a medical certificate may be requested by HR.
+
+## 4. Working Hours
+
+The standard work schedule is 9:30 AM to 6:30 PM, Monday through Friday, with a one-hour lunch break. Employees should coordinate schedule changes with their manager. Some teams may follow different schedules based on business and customer requirements.
+
+## 5. Public Holidays
+
+The company observes 10 public holidays each year. HR publishes the official holiday calendar at the beginning of each calendar year. Employees should refer to the published calendar for the exact dates of holidays.
+
+## 6. Parental Leave
+
+Eligible employees may apply for parental leave through HR. The employee must contact HR to confirm eligibility, required documentation, and the applicable leave duration. The specific entitlement depends on the employee's circumstances and the company's applicable policy.
+
+## 7. Probation Period
+
+New employees generally have a probation period of 6 months. During probation, managers review performance, role suitability, and progress toward assigned goals. The company may extend the probation period when additional evaluation time is needed. HR communicates any changes to the employee.
+
+## 8. Learning and Development
+
+Employees can request reimbursement for approved job-related courses and certifications up to ₹15,000 per calendar year. Prior manager approval is required before enrolling in a reimbursable course. Employees must submit proof of payment and course completion to HR or the finance team according to the reimbursement process.
+
+## 9. Expense Reimbursement
+
+Employees can claim approved business expenses such as travel, accommodation, and meals during authorized business trips. Expense claims must be submitted within 30 days of the expense date, along with valid receipts. All claims require manager approval and are subject to the company's expense policy.
+
+## 10. Information Security
+
+Employees must protect company and customer information from unauthorized access. Company data must not be shared with unauthorized individuals or stored in unapproved personal cloud accounts. Employees must report suspected security incidents to the IT or security team as soon as possible.
+
+## 11. Passwords and Account Security
+
+Employees must use strong, unique passwords for company accounts and must not share their passwords with colleagues. Multi-factor authentication must be enabled wherever required by company policy. Employees should report suspicious login notifications or suspected account compromise to the IT team immediately.
+
+## 12. Company Equipment
+
+Laptops and other company equipment are provided for authorized business use. Employees are responsible for taking reasonable care of assigned equipment. Lost, stolen, or damaged equipment must be reported to the IT team promptly. Employees must return company equipment when requested or when their employment ends.
+
+## 13. Performance Reviews
+
+Managers conduct formal performance reviews twice a year. Reviews may cover individual goals, technical skills, teamwork, delivery, and development needs. Employees are encouraged to discuss career goals and training requirements with their managers during review meetings.
+
+## 14. Resignation and Notice Period
+
+Employees who wish to resign must submit written notice to their manager and HR. The standard notice period is 30 calendar days, subject to the employee's employment agreement and applicable company policy. Employees should coordinate knowledge transfer and the return of company equipment before their last working day.
+
+## 15. Contacting HR
+
+Employees can contact HR for questions about leave balances, benefits, employment policies, personal information updates, and workplace concerns. Employees should use the official HR support channel for policy clarifications and requests that require confidential handling.
